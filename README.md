@@ -7,7 +7,7 @@ I have deep interest with deriving insights from data in different forms and sou
 ## 📂 Featured Projects  
 ### 1.  Vietnamese Data Job Market Analysis
 - **Date:** March 2025
-- **Tools:** Python (Selenium, Beautiful Soup), Pandas, Matplotlib, Streamlit
+- **Tools:** Python (Selenium, Beautiful Soup, Pandas, Matplotlib, Streamlit)
 - **Overview:** Scraped job listings to analyze labor market trends in Vietnam. Built an interactive Streamlit app to visualize hiring patterns.
 - **Key Contributions:**
   - Extracted 500 job listings from CareerViet using web scraping.
